@@ -1,8 +1,8 @@
 # Adventure-Works-Dashboard
->First load dataset than working some Preprocessing.
->Make model to connect all files for work
->From Calander File I make some new variable line Year, Day, Month Name, Weekend
->Make some analysis on Customers and Total transaction
+* First load dataset than working some Preprocessing.
+* Make model to connect all files for work
+* From Calander File I make some new variable line Year, Day, Month Name, Weekend
+* Make some analysis on Customers and Total transaction
 # Dashboard Content
 >Add Slicer (Year,Country,Category Name)
 >Show Total Revenue, Total Order Quantity, Total Return Quantity, Total Customers
